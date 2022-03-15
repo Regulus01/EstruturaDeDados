@@ -1,0 +1,32 @@
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\bin\Debug\net5.0\IteratorVETOR.exe
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\bin\Debug\net5.0\IteratorVETOR.deps.json
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\bin\Debug\net5.0\IteratorVETOR.runtimeconfig.json
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\bin\Debug\net5.0\IteratorVETOR.runtimeconfig.dev.json
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\bin\Debug\net5.0\IteratorVETOR.dll
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\bin\Debug\net5.0\ref\IteratorVETOR.dll
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\bin\Debug\net5.0\IteratorVETOR.pdb
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.csproj.AssemblyReference.cache
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.AssemblyInfoInputs.cache
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.AssemblyInfo.cs
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.csproj.CoreCompileInputs.cache
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.dll
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\ref\IteratorVETOR.dll
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.pdb
+G:\Meu Drive\5 periodo materias\EstruturaDeDados\Exercicios\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.genruntimeconfig.cache
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\bin\Debug\net5.0\IteratorVETOR.exe
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\bin\Debug\net5.0\IteratorVETOR.deps.json
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\bin\Debug\net5.0\IteratorVETOR.runtimeconfig.json
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\bin\Debug\net5.0\IteratorVETOR.runtimeconfig.dev.json
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\bin\Debug\net5.0\IteratorVETOR.dll
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\bin\Debug\net5.0\ref\IteratorVETOR.dll
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\bin\Debug\net5.0\IteratorVETOR.pdb
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.csproj.AssemblyReference.cache
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.AssemblyInfoInputs.cache
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.AssemblyInfo.cs
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.csproj.CoreCompileInputs.cache
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.dll
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\ref\IteratorVETOR.dll
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.pdb
+C:\Users\jsous\Desktop\Nova pasta (2)\IteratorVETOR\IteratorVETOR\obj\Debug\net5.0\IteratorVETOR.genruntimeconfig.cache
