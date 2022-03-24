@@ -1,6 +1,6 @@
 # 🎲 Estrutura De Dados
 
-Todas as estruturas possuem padrão Iterator.
++ Todas as estruturas possuem padrão Iterator.
 
 <table>
   <tr>
@@ -9,7 +9,7 @@ Todas as estruturas possuem padrão Iterator.
   <td>Lista Duplamente Encadeada</td>
   </tr>
   <tr>
-  <td>✔️</td>
+  <td>&nbsp✔️</td>
   <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp✔️</td>
   <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp✔️</td>
   </tr>
