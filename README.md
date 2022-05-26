@@ -16,3 +16,17 @@
   <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp✔️</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+  <td>Pilha</td>
+  <td>Fila</td>
+  <td>Deque</td>
+  </tr>
+  <tr>
+  <td>&nbsp✔️</td>
+  <td>&nbsp✔️</td>
+  <td>&nbsp&nbsp&nbsp✔️</td>
+  </td>
+  </tr>
+</table>
